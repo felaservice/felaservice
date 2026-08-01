@@ -1,92 +1,91 @@
 from pathlib import Path
-content = r'''# (README content omitted for brevity in generation?)
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=2D9CDB&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B,+I'm+Cedric+Fela;Full+Stack+Developer+%7C+SaaS+Builder;3D+Artist+%7C+VFX+Artist+%7C+CGI+Creator;Building+Digital+Solutions+with+Code+%26+Creativity" />
-</p>
 
-# 🚀 Welcome to my GitHub Profile
+text = """# 🚀 Welcome to my GitHub Profile
+
+> Professional GitHub README template for **Cedric Fela**
 
 ## 👋 About Me
-Hi, I'm **Cedric Fela**.
 
-I am a **Full Stack Developer**, **SaaS Developer**, and **3D/VFX Artist** passionate about building modern software and cinematic digital experiences.
+Hi, I'm **Cedric Fela** — Full Stack Developer, SaaS Builder, 3D Artist & VFX Artist.
 
 ### 💻 What I Build
-- Web Applications
+- Modern Web Applications
 - SaaS Platforms
 - REST APIs
-- Database Systems
 - Cloud Solutions
-- CGI & 3D Visual Experiences
+- Database Systems
+- 3D, CGI & VFX Experiences
 
 ## 💻 Full Stack Development
+
 ### Frontend
-React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS
+React • Next.js • HTML5 • CSS3 • JavaScript • TypeScript • Tailwind CSS • Bootstrap
 
 ### Backend
-Node.js, Express.js, Django, Flask, Python
+Node.js • Express.js • Django • Flask • Python
 
-### Database
-PostgreSQL, MySQL, SQLite, MongoDB, Redis, Firebase, Supabase
+### Databases
+PostgreSQL • MySQL • SQLite • MongoDB • Redis • Firebase • Supabase
 
-### Architecture
-REST APIs, Authentication, RBAC, JWT, SaaS Multi-Tenant Applications
-
-## 🎨 3D & VFX
-Blender, Autodesk Maya, ZBrush, Houdini FX, Nuke, CGI, Modeling, Sculpting, Texturing, Lighting, Rendering, Animation, Product Visualization, Compositing, Motion Graphics.
-
-## 🚀 Featured Projects
-### 🌊 Seaflow Cloud
-A SaaS platform for deploying and managing web applications, databases and cloud services.
-
-### 📦 Inventory Management System
-Multi-user stock management with roles, permissions, reporting and API integration.
-
-### 🎬 3D & VFX Projects
-CGI animations, product visualization, visual effects and environments.
+### DevOps & Cloud
+Docker • Kubernetes • Linux • Nginx • Git • GitHub • GitHub Actions • VS Code • Postman
 
 ---
 
-## 💻 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,cpp,cs,php,bash" />
-</p>
+# 🎨 3D & VFX
 
-## 🚀 Frameworks & Libraries
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,bootstrap,tailwind,prisma" />
-</p>
+I create cinematic CGI, product visualization, animation, simulations and compositing.
 
-## 🗄️ Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase" />
-</p>
+## Skills
+- 3D Modeling
+- Hard Surface Modeling
+- Sculpting
+- Character Modeling
+- Retopology
+- UV Mapping
+- Texturing
+- PBR Materials
+- Lighting
+- Rendering
+- Animation
+- Rigging
+- Motion Graphics
+- CGI
+- Visual Effects
+- Compositing
+- Camera Tracking
+- FX Simulation
+- Pyro
+- Fluids
+- Particles
+- Environment Design
 
-## ☁️ DevOps & Cloud
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,ubuntu,git,github,githubactions,vscode,postman" />
-</p>
+## 🖥️ 3D, CGI & VFX Software
 
-## 🎨 3D, CGI & VFX Software
-Blender • Autodesk Maya • ZBrush • Houdini FX • Nuke • Substance 3D Painter • Marvelous Designer • Mixamo • Adobe Fuse • DaVinci Resolve • Adobe After Effects • Adobe Photoshop • Adobe Illustrator
+<p align="center">
+
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/ZBrush-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Houdini-FE5F1A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nuke-55B948?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Substance_3D_Painter-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Marvelous_Designer-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mixamo-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adobe_Fuse-0099CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+
+</p>
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=felaservice&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felaservice&theme=tokyonight" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felaservice&layout=compact&theme=tokyonight" />
-</p>
 
-## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/cedric-fela-b3b73a424/
-- ArtStation: https://www.artstation.com/cedricfela
-- Upwork: https://www.upwork.com/freelancers/~0145857866f6f57d14
+Replace USERNAME with your GitHub username.
 
-⭐ Thanks for visiting my profile!
-'''
-path="/mnt/data/README.md"
-Path(path).write_text(content,encoding="utf-8")
-print(path)
-
+```md
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
